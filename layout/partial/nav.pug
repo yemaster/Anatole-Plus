@@ -4,7 +4,7 @@
       if is_home()
         a.current(href="/")= __('Home')					
       else
-        a(href="/", class="fa fa-home")= __('Home')	
+        a(href="/")= __('Home')	
     li
       if is_archive()
         a.current(href="/archives")= __('Archive')
