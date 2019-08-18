@@ -1,5 +1,7 @@
 ## Anatole-Plus
 
+轻轻挥动鼠标，在右上角给个star吧!
+
 ### 介绍
 
 Hexo博客还在用NexT？看惯了吧！试试Anatole-Plus。此主题系 Farbox 主题 Anatole 在 Hexo 平台上的移植版本。主题特色：双栏、响应式设计、纯净、轻巧、观感舒适。而且还有Canvas_nest动态背景
