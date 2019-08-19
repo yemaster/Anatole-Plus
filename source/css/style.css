@@ -37,6 +37,10 @@ a:hover, a:active {
   color: #4786D6;
 }
 
+ul {
+  list-style: none;
+}
+
 /*basic styles ends*/
 /*animation starts*/
 .animated {
@@ -134,6 +138,9 @@ a:hover, a:active {
   position: relative;
   display: initial;
   padding-right: 20px;
+}
+.page-top .nav li form {
+  display:inline-block;
 }
 .page-top .nav a {
   color: #5A5A5A;
@@ -699,4 +706,42 @@ a.btn {
   .share {
     display: grid;
   }
+}
+#search-box {
+    display:inline;
+    width:200px;
+}
+.site-search-form {
+    margin-left: 5px;
+}
+.st-search-input {
+    outline: none;
+    border: 0;
+    border-bottom: 1px solid #000;
+    width:0px;
+    transition: all 0.5s;
+}
+
+#search-box:hover .st-search-input {
+    width: 100px;
+}
+
+#local-search-input:valid .st-search-input {
+    width: 100px;
+}
+
+.st-search-input:focus {
+    width: 100px;
+}
+
+.local-search-result-cls {
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,0.2);
+}
+
+.local-search-empty {
+}
+
+.search-keyword {
+    color: #db2828;
 }
