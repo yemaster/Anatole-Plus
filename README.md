@@ -41,4 +41,4 @@ Plus修改:
 
 图片:
 
-![Demo Image](https://github.com/yemaster/Anatole-Plus/blob/master/MV@%60LI%7BP_V$ID%7DXHM%5BX%5B3V5.png?raw=true)
+![Demo Image](https://github.com/yemaster/Anatole-Plus/blob/master/PEVXO%5BVJ)%25~VAUR))(P1672.png?raw=true)
