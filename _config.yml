@@ -2,7 +2,7 @@
 # https://github.com/Ben02/hexo-theme-Anatole
 
 keywords: Hexo,HTML,CSS,android,Linux
-author: root,root@localhost
+author: ***,***@***
 description: 蒟蒻也能变神犇
 avatar: /images/favicon.ico
 
@@ -11,20 +11,22 @@ canvas_nest: true
 
 # Social Accounts
 # 整个url
-github: https://github.com/
-mail: mailto:root@localhost
-zhihu: https://www.zhihu.com/people/
-QQ: http://wpa.qq.com/msgrd?v=3&uin=****&site=qq&menu=yes
+github: https://github.com/***
+mail: mailto:***
+zhihu: https://www.zhihu.com/people/***/activities
+QQ: http://wpa.qq.com/msgrd?v=3&uin=***&site=qq&menu=yes
+
+# 搜索
+search:
+  enable: true
 
 # 评论
 duoshuo: 
 disqus: 
 gentie: 
-
-# 来必力
 livere: 
-  enable: false
-  id: 
+  enable: true
+  id: city
   uid: 
 
 # Valine comments : https://valine.js.org
