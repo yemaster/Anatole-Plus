@@ -73,8 +73,8 @@ if theme.valine
           })
 if theme.livere
   if theme.livere.enable == true
-    div(id="lv-container", data-id=theme.livere.id,  data-uid=theme.livere.uid).
-      script.
+    div(id="lv-container", data-id=theme.livere.id,  data-uid=theme.livere.uid)
+      script
         (function(d, s) {
            var j, e = d.getElementsByTagName(s)[0];
            if (typeof LivereTower === 'function') { return; }
