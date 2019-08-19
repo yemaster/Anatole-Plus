@@ -23,6 +23,7 @@ Plus修改:
  - 将logo图片改成圆角
  - canvas_nest动态背景
  - 增加了来必力评论
+ - 增加搜索框
 
 ### 安装
 
@@ -31,7 +32,7 @@ Plus修改:
  3. hexo设置中将主题改成`Anatole-Plus`
  4. 安装必要插件，bash内运行
  ```bash
- npm install --save hexo-render-pug hexo-generator-archive hexo-generator-tag hexo-generator-index hexo-generator-category
+ npm install --save hexo-render-pug hexo-generator-archive hexo-generator-tag hexo-generator-index hexo-generator-category hexo-generator-searchdb
  ```
 
 ### Demo
