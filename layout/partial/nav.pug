@@ -20,6 +20,13 @@
         a.current(href="/links")= __('Links')					
       else
         a(href="/links")= __('Links')
+    if theme.search.enable==true
+      li
+        a.fa.fa-search
+        form.site-search-form
+          input#local-search-input.st-search-input(type="text")
+        #local-search-result.local-search-result-cls
+
   .information
     .back_btn
       li
@@ -27,3 +34,8 @@
           a.fa.fa-chevron-left(onclick="window.history.go(-1)") 
         else
           a.fa.fa-chevron-left(onclick="window.history.go(-1)",style="display:none;") 
+
+script#local.search.active.
+  var inputArea       = document.querySelector("#local-search-input");
+  inputArea.onclick   = function(){ getSearchFile(); this.onclick = null }
+  inputArea.onkeydown = function(){ if(event.keyCode == 13) return false }
