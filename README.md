@@ -1,6 +1,8 @@
-## Anatole-Plus
+## Anatole-Plus V19.8.20
 
 轻轻挥动鼠标，在右上角给个star吧!
+
+[下载](https://github.com/yemaster/Anatole-Plus/releases) | [安装](https://yemaster.github.io/2019/08/18/Anatole-Plus/) | [教程](https://yemaster.github.io/2019/08/17/hexo/)
 
 ### 介绍
 
@@ -24,6 +26,7 @@ Plus修改:
  - canvas_nest动态背景
  - 增加了来必力评论
  - 增加搜索框
+ - 头像能够旋转
 
 ### 安装
 
