@@ -2,7 +2,7 @@
 
 轻轻挥动鼠标，在右上角给个star吧!
 
-[下载](https://github.com/yemaster/Anatole-Plus/releases) | [安装](https://yemaster.github.io/2019/08/18/Anatole-Plus/) | [教程](https://yemaster.github.io/2019/08/17/hexo/)
+[下载](https://github.com/yemaster/Anatole-Plus/releases) | [安装](https://yemaster.github.io/2019/08/20/Anatole-Plus/) | [教程](https://yemaster.github.io/2019/08/17/hexo/)
 
 ### 介绍
 
