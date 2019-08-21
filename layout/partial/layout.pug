@@ -9,9 +9,15 @@ html(lang="zh-CN")
       include nav
 
       block content
-
     script(src= url_for('js/jquery.js'))
     script(src= url_for('js/jquery-migrate-1.2.1.min.js'))
     script(src= url_for('js/jquery.appear.js'))
-    if theme.canvas_nest
+    script(src= url_for('js/search.js'))
+    script(src= url_for('https://dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js'), async='')
+    if theme.canvas_nest == true
       script(zIndex="-2", src= url_for('//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js'))
+  script.
+    NProgress.start();
+    window.onload=function(){
+      NProgress.done();
+    }
