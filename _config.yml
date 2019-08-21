@@ -2,7 +2,7 @@
 # https://github.com/Ben02/hexo-theme-Anatole
 
 keywords: Hexo,HTML,CSS,android,Linux
-author: ***,***@***
+author: Yemaster,yemaster@ahstu.cc
 description: 蒟蒻也能变神犇
 avatar: /images/favicon.ico
 
@@ -11,10 +11,10 @@ canvas_nest: true
 
 # Social Accounts
 # 整个url
-github: https://github.com/***
-mail: mailto:***
-zhihu: https://www.zhihu.com/people/***/activities
-QQ: http://wpa.qq.com/msgrd?v=3&uin=***&site=qq&menu=yes
+github: https://github.com/yemaster
+mail: mailto:yemaster@ahstu.cc
+zhihu: https://www.zhihu.com/people/yemaster-666/activities
+QQ: http://wpa.qq.com/msgrd?v=3&uin=1440169768&site=qq&menu=yes
 
 # 搜索
 search:
@@ -27,7 +27,7 @@ gentie:
 livere: 
   enable: true
   id: city
-  uid: 
+  uid: MTAyMC80NjE1NS8yMjY2Ng==
 
 # Valine comments : https://valine.js.org
 valine:
@@ -39,3 +39,6 @@ valine:
   avatar: mm # avatar style https://github.com/xCss/Valine/wiki/avatar-setting-for-valine
   placeholder: Just go go # comment box placeholder
 
+daovoice:
+  enable: true
+  appid: 4b1f7c0c
