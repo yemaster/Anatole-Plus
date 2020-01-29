@@ -10,7 +10,7 @@ mixin make_post(item, is_detail)
 			.post-content!= item.content
 		else
 			.post-content
-				- var summary = item.summary || item.content
+				- var summary = item.excerpt + '...'
 				p!= truncate(strip_html(summary), {length: 160})
 		.post-footer: .meta
 			.info
